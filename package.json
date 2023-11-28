@@ -11,5 +11,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "openai": "^4.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
