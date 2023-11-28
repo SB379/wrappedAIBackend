@@ -1,0 +1,15 @@
+{
+  "name": "wrapped-ai-server",
+  "version": "1.0.0",
+  "description": "server for WrappedAI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Balaji",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "openai": "^4.20.0"
+  }
+}
